@@ -13,8 +13,10 @@ Stories exist as
 
 ## How we built it
 We built a game using primarily Javascript (especially Canvas) and HTML. Moti came up with a Javascript-based physics engine to simulate the protagonist's movements. Seohyeon implemented scenes using Javascript and HTML, adapted the storyline to fit the time constraints of a hackathon, and contributed most of the art using GIMP and past concept art. 
-<img align="left" width="100" height="100" src="assets/storysharing.png">
+</br>
+<img align="left" width="800" src="assets/storysharing.png">
 <img align="left" width="100" height="100" src="assets/enemy.png">
+</br>
 
 ## Challenges we ran into
  We wanted to have a more complex physics engine in the form of Box2D or Matter.JS, but they proved too time consuming to implement. In the end, we chose to build our own simple "physics engine" during the hackathon.
